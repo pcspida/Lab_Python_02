@@ -1,0 +1,37 @@
+Exercise 1:
+-----------
+x = 2 and y = 5? 
+>>> x is 2
+
+x = 3 and y = 1?
+>>> (no output)
+
+x = 1 and y = 1?
+>>> x is 1
+
+x = 4 and y = 3?
+>>> z is 7
+
+Exercise 2:
+-----------
+a. What is y equal to at after the switch statement if x = 3 and y = 5 entering the switch? 
+>>> y is 1
+
+b. What if x = 2 and y = 5 at the beginning?
+>>> y is 1
+
+Exercise 3:
+-----------
+2
+4
+6
+8
+10
+
+Exercise 4:
+-----------
+>>> Nothing
+
+
+
+
